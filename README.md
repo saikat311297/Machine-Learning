@@ -1,1 +1,1 @@
-# Machine-Learning-Standord-Andrew Ng.-assignment2
+# Machine Learning Assignment 2 (Andrew Ng) (Standord University)
